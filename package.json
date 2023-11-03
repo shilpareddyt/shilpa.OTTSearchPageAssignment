@@ -1,6 +1,7 @@
 {
-  "name": "sampleapplication",
+  "name": "SHILPA.OTTSEARCHPAGEASSIGNMENT",
   "version": "0.1.0",
+  "homepage": "https://shilpareddyt.github.io/shilpa.OTTSearchPageAssignment/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
