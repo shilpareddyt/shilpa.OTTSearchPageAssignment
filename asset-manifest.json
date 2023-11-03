@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shilpa.OTTSearchPageAssignment/static/css/main.b783ccef.css",
+    "main.js": "/shilpa.OTTSearchPageAssignment/static/js/main.05e550b1.js",
+    "static/js/787.6fc84a1c.chunk.js": "/shilpa.OTTSearchPageAssignment/static/js/787.6fc84a1c.chunk.js",
+    "static/media/poster2.jpg": "/shilpa.OTTSearchPageAssignment/static/media/poster2.bf23bfae49d854fec0f2.jpg",
+    "static/media/poster1.jpg": "/shilpa.OTTSearchPageAssignment/static/media/poster1.d966e333249e4f74e821.jpg",
+    "static/media/poster3.jpg": "/shilpa.OTTSearchPageAssignment/static/media/poster3.7ee7b802517e3b685aaf.jpg",
+    "index.html": "/shilpa.OTTSearchPageAssignment/index.html",
+    "main.b783ccef.css.map": "/shilpa.OTTSearchPageAssignment/static/css/main.b783ccef.css.map",
+    "main.05e550b1.js.map": "/shilpa.OTTSearchPageAssignment/static/js/main.05e550b1.js.map",
+    "787.6fc84a1c.chunk.js.map": "/shilpa.OTTSearchPageAssignment/static/js/787.6fc84a1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b783ccef.css",
+    "static/js/main.05e550b1.js"
+  ]
+}
