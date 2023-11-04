@@ -122,7 +122,7 @@ function DramasList({ searchText }) {
         hasMore={true || false}
         loader={<div className="loader" key={0}>Loading ...</div>}
     >
-        <div className='grid grid-cols-3 gap-4 bg-bodybg py-20 pr-2 pl-2'>
+        <div className='grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 bg-bodybg py-20 pr-2 pl-2'>
             {dramasList.map((drama) => {
                 return <div >
                     <img src={drama["poster-image"]} alt="poster1image" />
